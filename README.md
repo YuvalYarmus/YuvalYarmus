@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 I am Yuval
+
+- A self taught developer
+- Currently based in Ness Ziona, Israel
+- 🌱 I’m currently learning about encryption, machine learning and how to make a computer from logic gates (through [Nand2Tetris](https://www.coursera.org/learn/build-a-computer?))
+- 🤔 Always looking for something interesting to learn
+- 👯 I’m looking to collaborate on making an end to end encrypted group chat
+
 
 <!--
 **YuvalYarmus/YuvalYarmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
