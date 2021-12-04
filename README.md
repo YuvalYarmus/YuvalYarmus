@@ -2,7 +2,7 @@
 
 - A self taught developer
 - Currently based in Ness Ziona, Israel
-- 🌱 I’m currently learning about encryption, machine learning and how to make a computer from logic gates (through [Nand2Tetris](https://www.coursera.org/learn/build-a-computer?))
+- 🌱 I’m currently learning about encryption, machine learning and how to make a computer from logic gates (through [Nand2Tetris](https://www.coursera.org/learn/build-a-computer?)). Also slowly starting to get into ctfs with picoCTF.
 - 🤔 Always looking for something interesting to learn
 - 👯 I’m looking to collaborate on making an end to end encrypted group chat
 
