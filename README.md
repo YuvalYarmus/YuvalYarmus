@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about encryption, machine learning and how to build a modern computer (through [Nand2Tetris](https://www.coursera.org/learn/build-a-computer?)). Also slowly getting into ctfs with [picoCTF](https://picoctf.org/).
 - 🤔 Always looking for something interesting to learn
 - 👯 I’m looking to collaborate on making an end to end encrypted group chat
-
+- ⚡ A new linux user
 
 <!--
 **YuvalYarmus/YuvalYarmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
